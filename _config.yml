@@ -21,7 +21,7 @@ repository               : "Folktugboat/Folktugboat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo life.png"
   name             : "Tianxiang Yuan"
   pronouns         : # example: "she/her"  
   bio              : "In case you are interested, my name means skywalker in Chinese"
