@@ -1,3 +1,4 @@
 main:
   - title: "Projects"
-    url: /projects/
+    url: /_projects/
+
