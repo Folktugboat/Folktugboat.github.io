@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /_projects/
+permalink:/Folktugboat.github.io/_projects/
 author_profile: true
 ---
 
