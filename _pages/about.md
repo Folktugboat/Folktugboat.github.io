@@ -9,6 +9,6 @@ redirect_from:
 Hello! I'm a Ph.D student from Department of Economics, Sciences Po. My research interest includes Auction Theory, Labour Economics and Empirical Econometrics.
 You can find my CV here: [Tianxiang_YUAN's Curriculum Vitae](../assets/YUAN Tianxiang CV.pdf).
 
-[Email](tianxiang.yuan@sciencespo.fr) / [Github](https://github.com/Folktugboat) / 
+[Sciences Po Personal Page](https://www.sciencespo.fr/department-economics/directory/yuan-tianxiang/) / [Github](https://github.com/Folktugboat) / 
 
 
