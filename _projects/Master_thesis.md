@@ -1,6 +1,6 @@
 ---
 title: "Master Thesis"
-excerpt: "This paper is the final project for my master's degree. This thesis is one of the best in 2024-2025. You can find link here."
+excerpt: "This paper is the final project for my master's degree. This thesis is one of the best in 2024-2025. You can find link here [Best Thesis](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/best-thesis/) ."
 date: 2025-05-26
 paperurl: "https://folktugboat.github.io/files/YUAN-Tianxiang.pdf"
 layout: single
